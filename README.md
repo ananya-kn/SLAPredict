@@ -1,2 +1,2 @@
-# SLAGuarddd
+# SLAGuard
 
