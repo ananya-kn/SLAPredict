@@ -1,4 +1,4 @@
-# SLAGuard 
+# SLAGuard project
 
 
 
